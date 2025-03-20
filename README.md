@@ -49,7 +49,7 @@ I enjoy solving complex problems, optimizing software performance, and building 
 
 ---
 
-![My Image](Yalu2.png)  <!-- Link to the uploaded image -->
+![My Image](Yalu2.jpg)  <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
