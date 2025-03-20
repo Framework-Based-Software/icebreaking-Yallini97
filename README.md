@@ -1,13 +1,13 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/0MOLbOcH)
 # Introduction
-Here’s a structured GitHub profile README that highlights your experience and expertise:
-
----
 
 # 👋 Hi, I'm Yallini Chander!
 
-🎓 **Master's Student** | **University of Malaya**  
-📌 **Master of Software Engineering (Software Technology)**  
+🎓 **Education:**  
+**Master of Software Engineering (Software Technology), University of Malaya**  
+**Bachelor of Software Engineering, Taylor's University**  
+**Bachelor of Science, UWE Bristol**   
+
 💻 **Ex-Software Engineer at Dell Technologies (4 years experience)**  
 
 ---
@@ -43,16 +43,13 @@ I enjoy solving complex problems, optimizing software performance, and building 
 ## 📫 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/YalliniChander)  
-- 📧 [Email](mailto:yallini@example.com)  
-- 📝 [Personal Blog](https://yallini-blog.com)  
+- 📧 [Email](mailto:yallini6697@gmail.com)    
 
 💡 **Open to collaborations, research opportunities, and tech discussions!**
 
 ---
 
-This profile effectively presents your academic background, work experience, skills, and projects. Let me know if you'd like any adjustments! 🚀
-
 ## GitHub Profile
 
-You can view my personalized GitHub profile [here, insert link to your github profile]
+You can view my personalized GitHub profile [https://github.com/Yallini97]
 
